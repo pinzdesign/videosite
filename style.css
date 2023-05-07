@@ -87,7 +87,7 @@ main {
     width: 100%;
 }
 
-#youtubeframe {
+#youtubeframe, #video_box {
     width: 100%;
     aspect-ratio: 16 / 9;
 }
