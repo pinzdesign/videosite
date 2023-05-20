@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Jura";
+    src: url("font/Jura-Regular.ttf");
+}
+
 * {
     margin: 0;
     padding: 0;
